@@ -1,0 +1,10 @@
+{
+    "admin": {
+        "password": "s",
+        "is_admin": true
+    },
+    "s": {
+        "password": "s",
+        "is_admin": false
+    }
+}

@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: file-upload-service
+    name: S
     env: python
     buildCommand: "pip install -r requirements.txt"
     startCommand: "python app.py"
